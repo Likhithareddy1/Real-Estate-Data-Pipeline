@@ -2,7 +2,7 @@
 <a href="https://www.ssp.sh/" target="_blank"><img src="https://ssp.sh/images/sspaeti_quadrat.png" height="100"/></a>
 </p>
 
-# Practical Data Engineering: A Hands-On Real-Estate Project Guide
+# Practical Data Engineering: A Hands-On Real-Estate
 
 [![Open Source Logos](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/images/open-source-logos.png)](https://www.ssp.sh/blog/data-engineering-project-in-twenty-minutes/)
 
